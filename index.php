@@ -24,4 +24,5 @@ else{
 }
 ?>
 
+<p>Test complete </p>
 </html>
